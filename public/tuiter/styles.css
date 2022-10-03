@@ -1,0 +1,13 @@
+.wd-big-border {
+    border-style: solid;
+    border-color: rgb(47, 51, 54);
+}
+
+html {
+    background:black;
+    font-family: "Helvetica Neue";
+    font-weight: bold;
+    border-color: rgb(47, 51, 54);
+    border: rgb(47, 51, 54);
+    padding-left: 16px;
+}

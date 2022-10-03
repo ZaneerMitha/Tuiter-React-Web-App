@@ -1,0 +1,123 @@
+html {
+    background:black;
+    font-family: "Helvetica Neue";
+    font-weight: bold;
+    border-color: rgb(47, 51, 54);
+    border: rgb(47, 51, 54);
+}
+
+.wd-bookmarks-heading {
+    color: white;
+    margin-left: 16px;
+    margin-top: 12px;
+    font-size: 20px;
+}
+
+.wd-big-border {
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(47, 51, 54);
+}
+
+.wd-user-handle {
+    color: lightgray;
+    font-size: 13px;
+    margin-left: 16px;
+    margin-bottom: 12px;
+}
+
+.wd-avatar {
+    margin-left: 16px;
+    margin-top: 12px;
+    float: left;
+    border-radius: 50%;
+    width: 48px;
+    height: 48px;
+}
+
+.wd-post-author {
+    float: left;
+    margin-left: 12px;
+    margin-top: 12px;
+    font-size: 15px;
+    color: white;
+}
+
+.wd-post-author-handle {
+    float: left;
+    margin-left: 12px;
+    margin-top: 12px;
+    font-size: 15px;
+    color: rgb(110,118,125);
+}
+
+.wd-post-content {
+    margin-left: 16px;
+    color: white;
+    font-size: 15px;
+    width: 506px;
+    font-weight: normal;
+}
+
+.wd-float-done{
+    clear: both;
+}
+
+.wd-content-pic {
+    width: 504px;
+    height: 264px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    margin-left: 12px;
+    border-color: rgb(47, 51, 54);
+    border: rgb(47, 51, 54);
+    border-width: 1px;
+    border-style: solid;
+}
+
+.wd-pic-caption-box {
+    border-color: rgb(47, 51, 54);
+    border: rgb(47, 51, 54);
+    border-width: 1px;
+    border-style: solid;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding: 12px;
+    width: 480px;
+    margin-left: 12px;
+    font-weight: normal;
+}
+
+.wd-pic-caption-title {
+    margin-top: 12px;
+    color: white;
+    font-weight: normal;
+    font-size: 15px;
+}
+
+.wd-pic-caption-text {
+    color: rgb(110,118,125);
+}
+
+.wd-icon-number-pair {
+    width: 25%;
+    float: left;
+}
+
+.wd-icon {
+    float: left;
+    margin: 12px;
+    margin-top: 15px;
+    height: 20px;
+    width: 20px;
+}
+
+.wd-icon-number {
+    float: left;
+    color: white;
+}
+
+.wd-like-icon-number {
+    float: left;
+    color: red;
+}
