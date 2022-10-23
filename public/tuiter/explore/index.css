@@ -60,7 +60,7 @@
     margin-top: 5px;
     margin-bottom: 5px;
     font-size: 15px;
-    color: black;
+    color: white;
     width: 70%;
     font-weight: bold;
 }
@@ -71,7 +71,7 @@
     margin-top: 5px;
     margin-bottom: 5px;
     font-size: 15px;
-    color: black;
+    color: white;
     width: 50%;
     font-weight: bold;
 }
@@ -86,13 +86,20 @@
 }
 
 .wd-big-border {
-    border-style: solid;
+    border-bottom: solid;
     border-width: 0.5px;
     border-color: lightgray;
 }
 
 .list-group-item {
     float: left;
+}
+
+.list-group-item-follow {
+    float: left;
+    margin: 5px;
+    text-decoration: none;
+    color: white;
 }
 
 .wd-center-img {
@@ -118,6 +125,7 @@
 
 #follow-button {
     float: right;
+    padding-right: 15px;
 }
 
 #tuit-button {
