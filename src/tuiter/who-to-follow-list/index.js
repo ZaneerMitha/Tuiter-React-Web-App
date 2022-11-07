@@ -7,6 +7,18 @@ const WhoToFollowList = () => {
     return(
         <div>
             <h1>Who To Follow!!</h1>
+
+            <ul className="list-group">
+                {
+                    whoArray.map(who =>
+                                       <WhoToFollowListItem
+                                           key={who._id}
+                                           who={who}
+                                       />
+                    )
+                }
+            </ul>
+
         </div>
     );
 };

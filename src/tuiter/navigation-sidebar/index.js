@@ -1,4 +1,5 @@
 import React from "react";
+import HomeComponent from "../home";
 
 const NavigationSidebar = (
     {
@@ -8,11 +9,11 @@ const NavigationSidebar = (
     return (
         <div className="list-group">
             <a className="list-group-item"> Tuiter</a>
-            <a className={`list-group-item
+            <a href={"/tuiter/home"} className={`list-group-item
                     ${active === 'home'?'active':''}`}>
                 Home
             </a>
-            <a className={`list-group-item
+            <a href={"/tuiter"} className={`list-group-item
                     ${active === 'explore'?'active':''}`}>
                 Explore
             </a>

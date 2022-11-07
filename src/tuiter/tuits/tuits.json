@@ -1,10 +1,44 @@
-[{ "_id": 123, "topic": "Space", "userName": "SpaceX",
-  "title": "Tesla Cybertruck lands on Mars and picks up the Curiosity rover on its 6' bed",
-  "time": "2h",   "image": "../images/teslalogo.jpeg" },
-  { "_id": 234, "topic": "Space",   "userName": "SpaceX",
+[
+  {
+    "_id": 234,
+    "topic": "Space",
+    "userName": "SpaceX",
+    "time": "2h",
     "title": "100s of SpaceX Starships land on Mars after a 6 month journey. 1000s of Martian colonists being building Mars Base 1",
-    "time": "2h",   "image": "../images/spacexlogo.jpeg" },
-  { "_id": 345, "topic": "Energy",  "userName": "Tesla",
+    "image": "../images/spacexlogo.jpeg",
+    "liked": true,
+    "replies": 123,
+    "retuits": 432,
+    "likes": 2345,
+    "handle": "@spacex",
+    "tuit": "You want to wake up in the morning and think the future is going to be great - and that’s what being a spacefaring civilization is all about. It’s about believing in the future and thinking that the future will be better than the past. And I can’t think of anything more exciting than going out there and being among the stars"
+  },
+  { "_id": 101,
+    "topic": "Tesla",
+    "userName": "Tesla",
+    "title": "100s of SpaceX Starships land on Mars after a 6 month journey. 1000s of Martian colonists being building Mars Base 1",
+    "time": "2h",
+    "image": "../images/teslalogo.jpeg",
+    "liked": false,
+    "replies": 808,
+    "retuits": 963,
+    "likes": 2636,
+    "handle": "@tesla",
+    "tuit": "You want to wake up in the morning and think the future is going to be great - and that’s what being a spacefaring civilization is all about. It’s about believing in the future and thinking that the future will be better than the past. And I can’t think of anything more exciting than going out there and being among the stars"
+
+  },
+  { "_id": 345,
+    "topic": "Energy",
+    "userName": "SpaceX",
     "title": "Tesla FSD finally makes driving obsolete. After years of delay, Tesla Full Self Driving can drive you to work while you work, play, or sleep",
-    "time": "4d",   "image": "../images/teslalogo.jpeg" }
+    "time": "4d",
+    "image": "../images/spacexlogo.jpeg",
+    "liked": true,
+    "replies": 954,
+    "retuits": 606,
+    "likes": 855,
+    "handle": "@spacex",
+    "tuit": "You want to wake up in the morning and think the future is going to be great - and that’s what being a spacefaring civilization is all about. It’s about believing in the future and thinking that the future will be better than the past. And I can’t think of anything more exciting than going out there and being among the stars"
+
+  }
 ]
