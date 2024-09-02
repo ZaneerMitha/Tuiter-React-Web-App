@@ -1,4 +1,4 @@
-# Tuiter Overview
+# Tuiter Overview 
 
 Tuiter is a social media platform where users can sign up, add friends, and express themselves through posts! Tuiter posts support text, pictures, and videos, and if you like someone else's post you can even Retuit it!
 
