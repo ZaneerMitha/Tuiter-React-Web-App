@@ -4,7 +4,7 @@
 
 Tuiter is a social media platform where users can sign up, add friends, and express themselves through posts! Tuiter posts support text, pictures, and videos, and if you like someone else's post you can even Retuit it! If you Tuit something and then later regret it (which happens often on social media), you can delete it!
 
-As a programmer new to website development, I made Tuiter to understand several of the many technologies that can be used to create a website. I created Tuiter to gain some practice in web-development, and have a project that would allow me to explore some of the most commonly used in this area of software engineering.
+As a programmer new to website development, I made Tuiter to understand several of the many technologies that can be used to create a website. I created Tuiter to gain some practice in web development, and have a project that would allow me to explore some of the most commonly used tools in this sector of software engineering. This project showed me that I truly love web development, and one day I aspire to be a front-end engineer.
 
 ## 💻 Technologies
 
