@@ -32,9 +32,9 @@ TL;DR:
 <img width="309" alt="Screenshot 2024-09-02 at 3 11 01 AM" src="https://github.com/user-attachments/assets/45c0823d-b903-42e5-9774-e620ef0ea75f">
 
 ### Bootstrap Responsive Sizing:
-<img width="653" alt="Screenshot 2024-09-02 at 3 14 11 AM" src="https://github.com/user-attachments/assets/868e7eee-12a6-4215-b5d0-02474010ae64">
-<img width="557" alt="Screenshot 2024-09-02 at 3 14 36 AM" src="https://github.com/user-attachments/assets/461a848c-2a1b-4f42-a84b-ab266ecb7c84">
-<img width="405" alt="Screenshot 2024-09-02 at 3 15 05 AM" src="https://github.com/user-attachments/assets/f308787e-32eb-40bd-a700-5e599004bfcb">
+<img width="653" alt="Screenshot 2024-09-02 at 3 14 11 AM" src="https://github.com/user-attachments/assets/868e7eee-12a6-4215-b5d0-02474010ae64"> /n
+<img width="557" alt="Screenshot 2024-09-02 at 3 14 36 AM" src="https://github.com/user-attachments/assets/461a848c-2a1b-4f42-a84b-ab266ecb7c84"> /n
+<img width="405" alt="Screenshot 2024-09-02 at 3 15 05 AM" src="https://github.com/user-attachments/assets/f308787e-32eb-40bd-a700-5e599004bfcb"> /n
 <img width="430" alt="Screenshot 2024-09-02 at 3 15 27 AM" src="https://github.com/user-attachments/assets/c48fbb6b-95b5-4a5d-9d94-5272f966d8cc">
 
 # Running Tuiter on Your Local Machine
