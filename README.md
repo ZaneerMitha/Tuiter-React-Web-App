@@ -6,7 +6,7 @@ Tuiter is a social media platform where users can sign up, add friends, and expr
 
 Tuiter implements JavaScript and React to increase user-interaction, letting users post content and view profiles. It employs HTML for structure and CSS for colors, styling, and intuitive navigation through 9 user-friendly pages. It utilizes Bootstrap for layout and MongoDB to pull content from libraries and allow users to create Tuiter accounts. Lastly, it incorporates Redux to handle state management across the application.
 
-# Getting Started with Create React App
+# Running Tuiter on Your Local Machine
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
